@@ -9,16 +9,16 @@ para la asignatura de **Tecnología y Digitalización de 2.º ESO**.
 
 | Fichero | Descripción |
 |---|---|
-| [Práctica 1 · Encendido de una bombilla mediante interruptor](practica_01) | Encendido de una bombilla mediante interruptor |
-| `practica_02.md` | Encendido de un motor mediante interruptor |
-| `practica_03.md` | Encendido alternativo de bombilla y motor CC mediante conmutador |
-| `practica_04.md` | Punto de luz conmutado |
-| `practica_05.md` | Medida de intensidad con amperímetro |
-| `practica_06.md` | Medida de voltímetro con amperímetro |
-| `practica_07.md` | Ley de Ohm |
-| `practica_08.md` | Circuito serie |
-| `practica_09.md` | Circuito paralelo |
-| `practica_10.md` | Circuito mixto |
+| [Práctica 1](practica_01) | Encendido de una bombilla mediante interruptor |
+| [Práctica 2](practica_02) | Encendido de un motor mediante interruptor |
+| [Práctica 3](practica_03) | Encendido alternativo de bombilla y motor CC mediante conmutador |
+| [Práctica 4](practica_04) | Punto de luz conmutado |
+| [Práctica 5](practica_05) | Medida de intensidad con amperímetro |
+| [Práctica 6](practica_06) | Medida de voltímetro con amperímetro |
+| [Práctica 7](practica_07) | Ley de Ohm |
+| [Práctica 8](practica_08) | Circuito serie |
+| [Práctica 9](practica_09) | Circuito paralelo |
+| [Práctica 10](practica_10) | Circuito mixto |
 
 ---
 
