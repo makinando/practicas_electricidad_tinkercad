@@ -9,7 +9,7 @@ para la asignatura de **Tecnología y Digitalización de 2.º ESO**.
 
 | Fichero | Descripción |
 |---|---|
-| `practica_01.md` | Encendido de una bombilla mediante interruptor |
+| [Práctica 1 · Encendido de una bombilla mediante interruptor](practica_01) | Encendido de una bombilla mediante interruptor |
 | `practica_02.md` | Encendido de un motor mediante interruptor |
 | `practica_03.md` | Encendido alternativo de bombilla y motor CC mediante conmutador |
 | `practica_04.md` | Punto de luz conmutado |
