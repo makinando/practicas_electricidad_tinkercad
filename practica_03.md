@@ -14,8 +14,8 @@ Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuit
 
 ***Contesta a las siguientes preguntas***
 
-1. Explica que ocurre al cambiar la posición del conmutador
-2. Explica porqué siempre hay algo funcionando
+1. Explica que ocurre al cambiar la posición del conmutador.
+2. Explica porqué siempre hay algo funcionando.
 
 > **Documentación a entregar**
 
