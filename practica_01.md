@@ -9,7 +9,7 @@ Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuit
 
 > **Actividades**
 
-1. Abre un documento en **Google Drive** con tu cuenta corporativa **@g.educaand.es** y llámalo **Prácticas de electricidad**.
+1. Abre un documento en [**Google Drive**](https://drive.google.com/) con tu cuenta corporativa **@g.educaand.es** y llámalo **Prácticas de electricidad**.
 2. Escribe el título de esta práctica y pega una captura de pantalla del circuito que has montado en TinkerCad.
 
 ***Contesta a las siguientes preguntas***
@@ -19,5 +19,5 @@ Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuit
 
 > **Documentación a entregar**
 
-Al terminar todas las prácticas, envía el enlace del documento a la tarea de **Moodle Centros** que tienes asignada.
+Al terminar todas las prácticas, envía el enlace del documento a la tarea de [**Moodle Centros**](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/login/index.php)que tienes asignada.
 
