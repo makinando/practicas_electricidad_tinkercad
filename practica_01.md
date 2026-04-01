@@ -1,3 +1,6 @@
+---
+title: Práctica 1
+---
 ### Prácticas de Electricidad con TinkerCad
 ----
 
