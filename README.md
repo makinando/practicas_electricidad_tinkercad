@@ -5,7 +5,7 @@ para la asignatura de **Tecnología y Digitalización de 2º ESO**.
 
 ---
 
-## 📁 Contenido del repositorio
+## 📁 Listado de prácticas
 
 | Fichero | Descripción |
 |---|---|
