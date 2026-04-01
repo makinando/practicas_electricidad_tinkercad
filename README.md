@@ -1,3 +1,6 @@
+---
+title: Inicio
+---
 # Prácticas de Electricidad con TinkerCad
 
 Repositorio de prácticas de electricidad básica realizadas con el simulador **TinkerCad**,
