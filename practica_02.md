@@ -20,5 +20,5 @@ Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuit
 
 > **Documentación a entregar**
 
-Al terminar todas las prácticas, envía el enlace del documento a la tarea de [**Moodle Centros**](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/login/index.php)que tienes asignada.
+Al terminar todas las prácticas, envía el enlace del documento a la tarea de [**Moodle Centros**](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/login/index.php) que tienes asignada.
 
