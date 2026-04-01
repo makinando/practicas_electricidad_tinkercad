@@ -11,10 +11,11 @@ para la asignatura de **Tecnología y Digitalización de 2.º ESO**.
 |---|---|
 | `practica_01.md` | Encendido de una bombilla mediante interruptor |
 | `practica_02.md` | Encendido alternativo de bombilla y motor CC mediante conmutador |
-| `practica_03.md` | Conexión de un zumbador mediante pulsador |
+| `practica_03.md` | Encendido alternativo de bombilla y motor CC mediante conmutador |
+| `practica_04.md` | Punto de luz conmutado |
 | `circuito_01.png` | Imagen del circuito 1 |
 | `circuito_02.png` | Imagen del circuito 2 |
-| `plantilla_practicas_tinkercad.md` | Plantilla genérica para nuevas prácticas |
+| `circuito_03.png` | Imagen del circuito 3 |
 
 ---
 
@@ -46,4 +47,4 @@ para la asignatura de **Tecnología y Digitalización de 2.º ESO**.
 
 ## 👨‍🏫 Autoría
 
-Departamento de Tecnología · Curso 2025/2026
+makinando24@gmail.com
