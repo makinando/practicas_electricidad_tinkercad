@@ -54,4 +54,4 @@ para la asignatura de **Tecnología y Digitalización de 2º ESO**.
 
 ## 👨‍🏫 Autoría
 
-makinando24@gmail.com
+Departamento de Tecnología · IES Luis Vélez de Guevara
