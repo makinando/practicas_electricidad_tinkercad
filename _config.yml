@@ -1,3 +1,8 @@
 theme: minima
 title: Prácticas de Electricidad con TinkerCad
-description: Tecnología y Digitalización · 2.º ESO · Departamento de Tecnología
+description: Tecnología y Digitalización · 2º ESO · Departamento de Tecnología
+header_pages:
+  - index.md
+  - practica_01.md
+  - practica_02.md
+  - practica_03.md
