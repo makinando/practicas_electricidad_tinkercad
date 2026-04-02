@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Inicio
 ---
 # Prácticas de Electricidad con TinkerCad
