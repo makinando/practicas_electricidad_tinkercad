@@ -30,7 +30,7 @@ para la asignatura de **Tecnología y Digitalización de 2º ESO**.
 
 - [TinkerCad Circuits](https://www.tinkercad.com) — simulador de circuitos eléctricos online
 - [Moodle Centros](https://educacion.juntadeandalucia.es) — plataforma de entrega de tareas
-- Google Drive con cuenta corporativa `@g.educaand.es` — documentación del alumnado
+- [Google Drive](https://drive.google.com) — documentación del alumnado con cuenta `@g.educaand.es`
 
 ---
 
