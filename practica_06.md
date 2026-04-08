@@ -1,14 +1,14 @@
 ---
-title: Práctica 5
+title: Práctica 6
 ---
 ### Prácticas de Electricidad con TinkerCad
 ----
 
-> **Práctica 5 · Medida de intensidad con amperímetro**
+> **Práctica 6 · Medida de voltaje con voltímetro**
 
-Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuito y comprueba su funcionamiento.
+Entra en TinkerCad con tu código de clase y usuario, monta los siguientes circuitos y comprueba su funcionamiento.
 
-![Circuito 05](circuito_05.png)
+![Circuito 06](circuito_06.png)
 
 > **Actividades**
 
@@ -17,11 +17,10 @@ Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuit
 
 > **Paso a paso**
 
-1. Inicia simulación y dale al interruptor para que se encienda la bombilla.
-2. Anota el valor que marca el amperímetro.
-3. Cambia el circuito y ponle sólo una pila de 1.5 voltios.
-4. Anota el valor que marca el amperímetro para este caso.
-5. El valor del amperímetro es ¿mayor o menor que en el primer caso? Explica que ha ocurrido.
+1. Inicia simulación y dale a los interruptores para que funcionen bombilla y motor.
+2. Anota el valor que marca el voltímetro en ambos casos.
+3. Cambia uno de los circuitos y ponle una pila de 9 voltios.
+4. ¿Que valor marca ahora el voltímetro?.
 
 > **Documentación a entregar**
 
