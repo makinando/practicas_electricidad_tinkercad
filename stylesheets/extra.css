@@ -1,0 +1,9 @@
+/* Tamaño de letra general */
+.md-typeset {
+  font-size: 0.85rem;
+}
+
+/* Tamaño de letra dentro de las cajas admonition */
+.md-typeset .admonition {
+  font-size: 0.85rem;
+}
