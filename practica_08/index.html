@@ -10,13 +10,11 @@
         <meta name="author" content="makinando">
       
       
-        <link rel="canonical" href="https://makinando.github.io/practicas_electricidad_tinkercad/practica_05/">
+        <link rel="canonical" href="https://makinando.github.io/practicas_electricidad_tinkercad/practica_08/">
       
       
-        <link rel="prev" href="../practica_04/">
+        <link rel="prev" href="../practica_07/">
       
-      
-        <link rel="next" href="../practica_06/">
       
       
         
@@ -27,7 +25,7 @@
     
     
       
-        <title>Práctica 5 - Tecnología  y Digitalización 2º ESO - makinando</title>
+        <title>Práctica 8 - Tecnología  y Digitalización 2º ESO - makinando</title>
       
     
     
@@ -78,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#practica-5-medida-de-intensidad-con-amperimetro" class="md-skip">
+        <a href="#practica-8-circuito-serie" class="md-skip">
           Saltar a contenido
         </a>
       
@@ -114,7 +112,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Práctica 5
+              Práctica 8
             
           </span>
         </div>
@@ -342,19 +340,10 @@
       
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../practica_05/" class="md-nav__link">
         
   
   
@@ -370,7 +359,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -433,10 +421,19 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../practica_08/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -452,6 +449,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -545,14 +543,43 @@
 
 
 
-<h1 id="practica-5-medida-de-intensidad-con-amperimetro">Práctica 5 · Medida de intensidad con amperímetro</h1>
-<p>Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuito y comprueba su funcionamiento.</p>
-<p><img alt="Circuito 05" src="../circuito_05.png" /></p>
-<div class="admonition danger">
-<p class="admonition-title">Importante — Cómo conectar el amperímetro</p>
-<p>El amperímetro se conecta siempre <strong>en serie</strong> con el circuito,
-es decir, la corriente debe pasar a través de él.
-Nunca lo conectes en paralelo o cortocircuitarás el circuito.</p>
+<h1 id="practica-8-circuito-serie">Práctica 8 · Circuito Serie</h1>
+<p>En esta práctica vamos a montar un circuito con dos bombillas conectadas en <strong>serie</strong> para comprobar cómo se reparten el voltaje y la intensidad.</p>
+<p><img alt="Circuito 08" src="../circuito_08.png" /></p>
+<div class="admonition info">
+<p class="admonition-title">¿Qué es un circuito en serie?</p>
+<p>En un circuito en serie los componentes están conectados uno detrás de otro,
+formando un único camino para la corriente.</p>
+<table>
+<thead>
+<tr>
+<th>Magnitud</th>
+<th>Comportamiento en serie</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Intensidad (I)</td>
+<td>Es la <strong>misma</strong> en todos los puntos del circuito</td>
+</tr>
+<tr>
+<td>Tensión (V)</td>
+<td>Se <strong>reparte</strong> entre los componentes</td>
+</tr>
+<tr>
+<td>Resistencia (R)</td>
+<td>La resistencia total <strong>aumenta</strong>: R total = R₁ + R₂</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr />
+<div class="admonition warning">
+<p class="admonition-title">Recuerda</p>
+<ul>
+<li>El <strong>amperímetro</strong> se conecta en <strong>serie</strong> — la corriente pasa a través de él.</li>
+<li>El <strong>voltímetro</strong> se conecta en <strong>paralelo</strong> — sus terminales van a los dos extremos de la bombilla.</li>
+</ul>
 </div>
 <hr />
 <div class="admonition note">
@@ -562,26 +589,48 @@ Nunca lo conectes en paralelo o cortocircuitarás el circuito.</p>
 <li>Añade el título de esta práctica y pega una captura de pantalla del circuito que has montado en TinkerCad.</li>
 </ol>
 </div>
-<div class="admonition example">
-<p class="admonition-title">Paso a paso</p>
+<div class="admonition question">
+<p class="admonition-title">Análisis de resultados</p>
 <ol>
-<li>Inicia la simulación y dale al interruptor para que se encienda la bombilla.</li>
-<li>Anota el valor que marca el amperímetro.</li>
-<li>Cambia la pila por una de 1,5 voltios.</li>
-<li>Anota el nuevo valor del amperímetro.</li>
-<li>¿El valor es mayor o menor que en el primer caso? Explica qué ha ocurrido.</li>
+<li>Inicia la simulación y dale al interruptor para que se enciendan las bombillas.</li>
+<li>
+<p>Anota el valor que marca el amperímetro:</p>
+<p><strong>I =</strong></p>
+</li>
+<li>
+<p>Anota el valor que marca cada voltímetro:</p>
+<p><strong>V bombilla 1 =</strong></p>
+<p><strong>V bombilla 2 =V</strong></p>
+</li>
+<li>
+<p>Suma los dos voltajes:</p>
+<p><strong>V total = V₁ + V₂ =</strong></p>
+</li>
+<li>
+<p>Compara el resultado con el voltaje de la pila (3V). ¿Coincide?</p>
+</li>
 </ol>
 </div>
-<div class="admonition tip">
-<p class="admonition-title">Recuerda — Ley de Ohm</p>
-<p>Cuanto mayor es la tensión de la pila, mayor es la intensidad que circula.
-Esto se explica con la <strong>Ley de Ohm: V = I × R</strong></p>
+<div class="admonition question">
+<p class="admonition-title">Contesta a las siguientes preguntas</p>
+<ol>
+<li>¿Es la misma la intensidad en todos los puntos del circuito? ¿Cómo lo has comprobado?</li>
+<li>¿Cómo se reparte la tensión entre las dos bombillas?</li>
+<li>Compara el brillo de las bombillas con el de la práctica 1 (una sola bombilla). ¿Brillan más o menos? ¿Por qué?</li>
+</ol>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Conclusión</p>
+<p>En un circuito serie:</p>
+<ul>
+<li>El voltaje total se reparte entre los componentes: <span class="arithmatex">\(V_t = V_1 + V_2 + \dots\)</span></li>
+<li>La intensidad es la misma en todos los puntos: <span class="arithmatex">\(I_t = I_1 = I_2 = \dots\)</span></li>
+</ul>
 </div>
 <hr />
 <div class="admonition info">
 <p class="admonition-title">Documentación a entregar</p>
-<p>Al terminar todas las prácticas, envía el enlace del documento a la tarea de
-<a href="https://educacionadistancia.juntadeandalucia.es/centros/sevilla/login/index.php">Moodle Centros</a> que tienes asignada.</p>
+<p>Al terminar, asegúrate de que el documento de Drive está actualizado y compartido correctamente.</p>
 </div>
 
 
