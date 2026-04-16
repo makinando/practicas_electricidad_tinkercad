@@ -10,13 +10,11 @@
         <meta name="author" content="makinando">
       
       
-        <link rel="canonical" href="https://makinando.github.io/practicas_electricidad_tinkercad/practica_02/">
+        <link rel="canonical" href="https://makinando.github.io/practicas_electricidad_tinkercad/practica_09/">
       
       
-        <link rel="prev" href="../practica_01/">
+        <link rel="prev" href="../practica_08/">
       
-      
-        <link rel="next" href="../practica_03/">
       
       
         
@@ -27,7 +25,7 @@
     
     
       
-        <title>Práctica 2 - Tecnología  y Digitalización 2º ESO - makinando</title>
+        <title>Práctica 9 - Tecnología  y Digitalización 2º ESO - makinando</title>
       
     
     
@@ -78,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#practica-2-encendido-de-un-motor-mediante-interruptor" class="md-skip">
+        <a href="#practica-9-circuito-en-paralelo" class="md-skip">
           Saltar a contenido
         </a>
       
@@ -114,7 +112,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Práctica 2
+              Práctica 9
             
           </span>
         </div>
@@ -261,19 +259,10 @@
       
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../practica_02/" class="md-nav__link">
         
   
   
@@ -289,7 +278,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -460,10 +448,19 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../practica_09/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -479,6 +476,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -545,13 +543,35 @@
 
 
 
-<h1 id="practica-2-encendido-de-un-motor-mediante-interruptor">Práctica 2 · Encendido de un motor mediante interruptor</h1>
+<h1 id="practica-9-circuito-en-paralelo">Práctica 9 · Circuito en paralelo</h1>
 <p>Entra en TinkerCad con tu código de clase y usuario, monta el siguiente circuito y comprueba su funcionamiento.</p>
-<p><img alt="Circuito 02" src="../circuito_02.png" /></p>
+<p><img alt="Circuito 09" src="../circuito_09.png" /></p>
 <div class="admonition info">
-<p class="admonition-title">¿Qué es un motor CC?</p>
-<p>Un <strong>motor de corriente continua (CC)</strong> transforma la energía eléctrica en movimiento.
-Al invertir la polaridad de los cables cambia el sentido de giro.</p>
+<p class="admonition-title">¿Qué es un circuito en paralelo?</p>
+<p>En un circuito en paralelo los componentes están conectados entre los
+<strong>mismos dos puntos</strong>, ofreciendo varios caminos para la corriente.</p>
+<table>
+<thead>
+<tr>
+<th>Magnitud</th>
+<th>Comportamiento en paralelo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tensión (V)</td>
+<td>Es la <strong>misma</strong> en todos los componentes: V = V₁ = V₂</td>
+</tr>
+<tr>
+<td>Intensidad (I)</td>
+<td>Se <strong>reparte</strong> entre las ramas: I total = I₁ + I₂</td>
+</tr>
+<tr>
+<td>Resistencia (R)</td>
+<td>La resistencia total <strong>disminuye</strong>: 1/R total = 1/R₁ + 1/R₂</td>
+</tr>
+</tbody>
+</table>
 </div>
 <hr />
 <div class="admonition note">
@@ -561,18 +581,77 @@ Al invertir la polaridad de los cables cambia el sentido de giro.</p>
 <li>Añade el título de esta práctica y pega una captura de pantalla del circuito que has montado en TinkerCad.</li>
 </ol>
 </div>
+<div class="admonition example">
+<p class="admonition-title">Paso a paso</p>
+<ol>
+<li>Inicia la simulación y dale al interruptor para que se enciendan las bombillas.</li>
+<li>
+<p>Anota el valor que marca cada amperímetro:</p>
+<p><strong>I rama 1 (Amperímetro 1) =</strong></p>
+<p><strong>I rama 2 (Amperímetro 2) =</strong></p>
+<p><strong>I total (Amperímetro 3) =</strong></p>
+</li>
+<li>
+<p>Comprueba que la intensidad total es la suma de las dos ramas:</p>
+<p><strong>I total = I₁ + I₂ =</strong></p>
+</li>
+<li>
+<p>Anota el valor que marca cada voltímetro:</p>
+<p><strong>V bombilla 1 (Voltímetro 1) =</strong></p>
+<p><strong>V bombilla 2 (Voltímetro 2) =</strong></p>
+</li>
+<li>
+<p>Compara los dos voltajes. ¿Son iguales? ¿Coinciden con el voltaje de la pila?</p>
+</li>
+</ol>
+</div>
 <div class="admonition question">
 <p class="admonition-title">Contesta a las siguientes preguntas</p>
 <ol>
-<li>¿Qué ocurre con el motor cuando se cierra el interruptor?</li>
-<li>Cambia la pila por una de 3 voltios. ¿Qué ocurre con el giro del motor?</li>
-<li>Cambia los cables conectando negro-rojo. ¿Qué ocurre con el giro del motor?</li>
+<li>¿Es la misma la tensión en las dos bombillas? ¿Por qué?</li>
+<li>¿Cómo se reparte la intensidad entre las dos ramas?</li>
 </ol>
 </div>
+<div class="admonition warning">
+<p class="admonition-title">Recuerda</p>
+<ul>
+<li>El <strong>amperímetro</strong> se conecta en <strong>serie</strong> en cada rama — uno por cada bombilla y otro en el circuito principal.</li>
+<li>El <strong>voltímetro</strong> se conecta en <strong>paralelo</strong> con cada bombilla.</li>
+</ul>
+</div>
 <div class="admonition tip">
-<p class="admonition-title">Consejo</p>
-<p>Cuando cambies los cables fíjate bien en la dirección de las flechas del motor en la simulación.
-Es la forma más fácil de ver el cambio de sentido de giro.</p>
+<p class="admonition-title">Comparativa serie vs. paralelo</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Serie (Práctica 8)</th>
+<th>Paralelo (Práctica 9)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tensión</td>
+<td>Se reparte</td>
+<td>Igual en todos</td>
+</tr>
+<tr>
+<td>Intensidad</td>
+<td>Igual en todos</td>
+<td>Se reparte</td>
+</tr>
+<tr>
+<td>Si falla una bombilla</td>
+<td>Para todo</td>
+<td>La otra sigue</td>
+</tr>
+<tr>
+<td>Brillo de las bombillas</td>
+<td>Menor</td>
+<td>Mayor</td>
+</tr>
+</tbody>
+</table>
 </div>
 <hr />
 <div class="admonition info">
